@@ -1,4 +1,4 @@
-export const runtime = "edge";
+// export const runtime = "edge"; // If this is active, then the localhost is not updating the UI as well as on vercel deployment
 
 import { NextRequest } from "next/server";
 
